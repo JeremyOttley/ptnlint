@@ -1,4 +1,14 @@
 = ptnlint
+Jeremy Ottley <jeremy.ottley@gmail.com>
+:encoding: utf-8
+:lang: en
+:toc: left
+:sectnumlevels: 2
+:hardbreaks:
+:icons: font
+//:source-highlighter: rouge
+:hide-uri-scheme:
+:idseparator: -
 
 ptnlint parses files in the Portable Tak Notation format. So far it doesn't do much more than that. Work in progress.
 
