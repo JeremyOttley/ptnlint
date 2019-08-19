@@ -1,4 +1,4 @@
 require 'parslet'
 
-module PGNLint
+module PTNLint
   class Parser < Parslet::Parser
