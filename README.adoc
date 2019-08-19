@@ -1,0 +1,5 @@
+= ptnlint
+
+ptnlint parses files in the Portable Tak Notation format. So far it doesn't do much more than that. Work in progress.
+
+Original work based on: https://github.com/tobiasvl/pgnlint[pgnlint]
